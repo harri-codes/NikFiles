@@ -1,0 +1,30 @@
+{
+    "60f7b3d07fee0": {
+        "_id": "60f7b3d07fee0",
+        "type": "account",
+        "admin_name": "admin",
+        "admin_password": "admin"
+    },
+    "60f7b3d08ce4b": {
+        "_id": "60f7b3d08ce4b",
+        "type": "email",
+        "smtp_host": "",
+        "smtp_port": "",
+        "auth_addr": "",
+        "auth_pass": "",
+        "from_name": "",
+        "from_addr": "",
+        "to_name": "",
+        "to_addr": "",
+        "subject": "",
+        "body": ""
+    },
+    "60f7b3d09e6a4": {
+        "_id": "60f7b3d09e6a4",
+        "type": "tiny_transfer_setting",
+        "title": "TinyTransfer",
+        "logo": "\\\/module\\\/mod_tiny_transfer\\\/assets\\\/img\\\/logo.png",
+        "description": "NikFiles is the simplest way to send your files around the world",
+        "keywords": "Tiny,Transfer,file,send,zip,upload,download"
+    }
+}
